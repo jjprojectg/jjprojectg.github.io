@@ -1281,6 +1281,10 @@ $sidebar-display: "sidebar-display";
 
         border-radius: 0;
         max-width: none;
+
+        &::before {
+          left: 1rem;
+        }
       }
     }
   }
