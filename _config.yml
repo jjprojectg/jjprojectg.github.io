@@ -19,18 +19,18 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: JJProject                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: 세상의 모든 소식   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  세상의 모든 정보를 보여주기 위한 연구 프로젝트입니다.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://jjprojectg.github.io/'
 
 github:
-  username: github_username             # change to your github username
+  username: jjprojectg             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
