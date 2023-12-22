@@ -19,6 +19,9 @@ layout: compress
   {% include head.html %}
 
   <body data-spy="scroll" data-target="#toc" data-topbar-visible="true">
+    {% if site.google_tag.ua %}
+      {% include gtag_body.html %}
+    {% endif %}
 
     {% include sidebar.html %}
 

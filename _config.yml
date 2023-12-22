@@ -198,3 +198,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+google_tag:
+  ua: GTM-N9MNGC5F
